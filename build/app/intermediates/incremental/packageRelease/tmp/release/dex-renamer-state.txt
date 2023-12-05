@@ -1,0 +1,4 @@
+#Sun Dec 03 18:40:34 UZT 2023
+base.0=D\:\\flutter project\\State Managment\\iot\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
